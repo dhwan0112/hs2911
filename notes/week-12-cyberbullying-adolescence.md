@@ -1,9 +1,9 @@
 # Week 12 — Cyberbullying and Adolescence
 
-> **SCOPE UPDATE (instructor announcement, 4 Nov 2026):** Section 4, *Protective measures* (S18–S24: Gillett safety work, Machackova & Pfetsch bystanders, Gillespie / OSRA platform governance, and the Emily and Riley prompts) **will not be on the quiz** because it was not covered in class. The slides stay in the deck "to educate"; this note was written from the pre-update deck. Lines below that rest on S18–S24 are tagged `⟵ §4, not on quiz`. OSRA as it appears in the opening (S3) is still in scope. The S25 synthesis ("every level works only for those with capacity") summarises §4, so treat it as low priority.
+> **SCOPE UPDATE (instructor announcement + revised files, 4 Nov 2026):** the updated deck now labels S18 "PROTECTIVE MEASURES (nothing in syllabus for quiz from this slide on)". So **everything from S18 to the end is out of scope**: S18–S24 (Gillett safety work, Machackova & Pfetsch bystanders, Gillespie / OSRA platform governance, the Emily and Riley prompts) **and the S25 synthesis** ("every level works only for those with capacity"). Nothing else in the deck changed (S1–S17 are word-for-word identical). The revised practice quiz strikes through 14 of its 40 questions (see the walkthrough). Lines below that rest on S18–S24 are tagged `⟵ §4, not on quiz`; lines that rest only on S25 are tagged `⟵ S25, not on quiz`. OSRA as it appears in the opening (S3) is still in scope. In-scope material: S1–S17 (Problem, Antecedents, Consequences).
 
 
-Scope: HS2911 Week 12 deck (27 slides, 90 min: Problem 20 / Antecedents 25 / Consequences 25 / Protective 20). Lecturer not stated in the extracted text (not confirmed on slides). The practice quiz (40 Q) covers Tokunaga, Runions + Howard, SIDE, Kramer et al., Kowalski & Limber, Billington et al., Gillett, Machackova & Pfetsch, Gillespie/OSRA, and the synthesis slide. Slide numbers below follow the "===== SLIDE n =====" markers (same as the quiz's citations); the printed footers on the slides are offset by 1-10 (e.g. marker S6 is footed "Slide 5") so ignore the footers.
+Scope: HS2911 Week 12 deck (27 slides, 90 min: Problem 20 / Antecedents 25 / Consequences 25 / Protective 20; updated deck of 4 Nov 2026, quiz scope = S1–S17). Lecturer not stated in the extracted text (not confirmed on slides). The practice quiz (40 Q) covers Tokunaga, Runions + Howard, SIDE, Kramer et al., Kowalski & Limber, Billington et al., Gillett, Machackova & Pfetsch, Gillespie/OSRA, and the synthesis slide. Slide numbers below follow the "===== SLIDE n =====" markers (same as the quiz's citations); the printed footers on the slides are offset by 1-10 (e.g. marker S6 is footed "Slide 5") so ignore the footers.
 
 ## 1. One-paragraph summary
 
@@ -16,7 +16,7 @@ Cyberbullying is defined (Tokunaga, 2010) by intentionality, repetition and powe
 - **Repetition** — single incidents may not qualify; but digital permanence complicates this: "one post, seen 1000 times" [S6].
 - **Power imbalance** — technical skill, anonymity and audience scale create asymmetries that differ from offline bullying [S6].
 - **"No safe place"** — not rhetoric but a structural feature of the medium: cyberbullying can follow victims into any space, at any hour [S6].
-- **Not all online aggression is cyberbullying** — synthesis point: Tokunaga's criteria filter it [S25].
+- **Not all online aggression is cyberbullying** — synthesis point: Tokunaga's criteria filter it [S25]. ⟵ S25 wording, but the underlying criteria are S6 and still testable
 - **Dark figure problem** — official/reported cases (MOE: "low and stable") understate reality; research consistently shows under-reporting; 43% of Singaporeans who experienced online harm would not act because they do not believe it will help [S7].
 - **Bully-victim overlap** — those who both perpetrate and experience cyberbullying; 4.8% of SG adolescents [S7, S13].
 - **Bully-victim paradox** — bully-victims report WORSE outcomes (depression, anxiety, physical symptoms) than pure victims or pure perpetrators (Kowalski & Limber); standard victim-support or perpetrator-discipline frameworks miss them [S13].
@@ -92,7 +92,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - Community — bystander intervention (Machackova): affective empathy + anti-aggression norms; peer norm-change programs (classes, teams) most promising; cognitive empathy alone insufficient online. "Promising, scalable."
 - Platform — content moderation (Gillespie) + OSRA: OSC can order takedowns; 5+ day response reveals structural gaps. "Powerful but captured."
 
-**Synthesis map** [S25]: Problem (Tokunaga criteria) -> Antecedents (4 motives x affordances; Runions + SIDE + Kramer) -> Consequences (harm, bully-victim paradox, radicalisation) -> Measures (individual burden -> community norms -> platform accountability). Recurring thread: safety work rewards the vigilant; bystander intervention rewards the empathic; moderation rewards those who know how to report; inequalities reproduced; bully-victims fall through every net (unresolved).
+**Synthesis map** [S25]: Problem (Tokunaga criteria) -> Antecedents (4 motives x affordances; Runions + SIDE + Kramer) -> Consequences (harm, bully-victim paradox, radicalisation) -> Measures (individual burden -> community norms -> platform accountability). Recurring thread: safety work rewards the vigilant; bystander intervention rewards the empathic; moderation rewards those who know how to report; inequalities reproduced; bully-victims fall through every net (unresolved). ⟵ S25, not on quiz
 
 **Lecture structure** [S1]: Problem 20 min / Antecedents 25 / Consequences 25 / Protective 20 (PACM framework noted on S25).
 
@@ -105,7 +105,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - S17 recognition theory + 5-step pathway.
 - S18-S22 Protective: S19 repeated reporting that does not work; S20 Emily "smile and nod" (coping vs survival strategy); S21 Gillett; S22 Riley (surprised by online meanness; "Should they have been?"). ⟵ §4, not on quiz
 - S23 Machackova & Pfetsch; S24 three-level governance; S25 synthesis; S26-S27 references. ⟵ §4, not on quiz
-- Reflection prompts [S2-S3]: changed online behaviour due to harassment; witnessed and stayed silent; reported and platform helped (or not); dealt with it alone. Closing question [S25]: which of individual / bystander / platform levels was available to you, and why or why not?
+- Reflection prompts [S2-S3]: changed online behaviour due to harassment; witnessed and stayed silent; reported and platform helped (or not); dealt with it alone. Closing question [S25]: which of individual / bystander / platform levels was available to you, and why or why not? ⟵ S25, not on quiz
 - Discussion prompts S14-S16, S19-S20, S22 have no answer text on slides; treat as interpretive, not testable (not confirmed on slides). ⟵ §4, not on quiz
 
 ## 4. Key studies and evidence
@@ -151,7 +151,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 ## 6. Arguments, critiques and open questions
 
 - Single incident vs repetition: permanence means one post can act repeatedly, but this only "complicates" and does not automatically satisfy repetition [S6].
-- Definition is narrower than "all online aggression" [S25]; intent excludes accidents [S6].
+- Definition is narrower than "all online aggression" [S25, grounded in S6 criteria]; intent excludes accidents [S6].
 - Official "low and stable" figures vs dark figure of under-reporting; low trust that reporting helps (43%) [S7].
 - Not only an adolescent problem or a UK problem: SG adults and adolescents affected [S3].
 - Motive heterogeneity: one-size interventions fail; match response to motive [S9].
@@ -161,7 +161,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - Safety work is "necessary but unjust": burden on victims, no reduction of the problem [S21, S24]. ⟵ §4, not on quiz
 - Empathy is necessary but not sufficient; norms matter; online context disrupts severity assessment ("didn't realise it was that bad" is structural, not a character flaw) [S23]. ⟵ §4, not on quiz
 - Platform moderation is value-laden and "captured"; even OSRA leaves response-time gaps [S24]. ⟵ §4, not on quiz
-- Equity critique: every level favours the vigilant/empathic/informed; cyberbullying reproduces inequality; bully-victims fall through every net; unresolved in the literature [S25].
+- Equity critique: every level favours the vigilant/empathic/informed; cyberbullying reproduces inequality; bully-victims fall through every net; unresolved in the literature [S25]. ⟵ S25, not on quiz
 - Limitations of evidence to note: Kramer was done without consent (ethics) [S11]; Machackova is a German adolescent sample, N=321 [S23]. ⟵ §4, not on quiz
 
 ## 7. Distractor traps
@@ -205,13 +205,13 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 
 **E Integration**
 - Combine Runions affordances with SIDE to explain aggression. [S10, S11]
-- Link the bully-victim paradox to the synthesis point that measures favour the capable. [S13, S25]
+- Link the bully-victim paradox to the synthesis point that measures favour the capable. [S13, S25] ⟵ S25, not on quiz (but the S13 paradox itself is in scope)
 - Link safety work and the 5+ day platform response time. [S21, S24, S3] ⟵ §4, not on quiz
 
 **F Creation**
 - Design a school plan matched to Runions' motives. [S9]
 - Design a bystander programme from Machackova & Pfetsch. [S23] ⟵ §4, not on quiz
-- Predict who benefits most from a new reporting tool. (Those who already know how to report and trust it.) [S25]
+- Predict who benefits most from a new reporting tool. (Those who already know how to report and trust it.) [S25] ⟵ S25, not on quiz
 
 ## 9. 60-second recap
 
@@ -226,7 +226,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - Safety work (Gillett) = constant, gendered, invisible; five forms; necessary but unjust [S21, S24]. ⟵ §4, not on quiz
 - Machackova & Pfetsch (N=321): affective empathy helps online and offline, cognitive only offline, pro-aggression norms drive reinforcement; age/gender n.s. [S23]. ⟵ §4, not on quiz
 - OSRA: OSC can order takedowns and restrict accounts; platforms take 5+ days [S3, S24]. ⟵ §4, not on quiz
-- Synthesis: every level favours those with capacity; inequalities reproduced; bully-victims fall through every net [S25].
+- Synthesis: every level favours those with capacity; inequalities reproduced; bully-victims fall through every net [S25]. ⟵ S25, not on quiz
 
 ### Source discrepancies to know
 - Runions (2013) is cited on S9/S10 as J Youth Adolescence 42, 751-771 ("Toward a conceptual model of motive and self-control in cyber-aggression: rage, revenge, reward, and recreation" — the four-motive paper), while S26 lists Child Development Perspectives 7(4), 245-251 (Runions, Shapka, Dooley & Modecki 2013, a different cyber-aggression paper). Both exist; the slides mix two Runions 2013 papers. For the exam, "Runions (2013)" = the four motives + ICT affordances model.

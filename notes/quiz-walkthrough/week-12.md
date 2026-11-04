@@ -1,8 +1,8 @@
 # Week 12 practice quiz — walkthrough
 
-Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchpad/text/HS2911_Week12_PracticeQuiz_40Q.txt — 40 questions. Types: A Conceptual Q1-6 · B Analysis Q7-12 · C Application Q13-18 · D Evaluation Q19-23 · E Integration Q24-28 · F Creation Q29-40. All 40 letters match between the Answer Key and the Rationale Notes (no discrepancies).
+Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchpad/text/HS2911_Week12_PracticeQuiz_40Q_revised.txt — 40 questions (revised docx of 4 Nov 2026; 14 struck through, see below). Types: A Conceptual Q1-6 · B Analysis Q7-12 · C Application Q13-18 · D Evaluation Q19-23 · E Integration Q24-28 · F Creation Q29-40. All 40 letters match between the Answer Key and the Rationale Notes (no discrepancies).
 
-> **SCOPE UPDATE (instructor announcement, 4 Nov 2026):** section 4 *Protective measures* (S18–S24) is no longer on the quiz. The practice quiz was written before that change, so **skip Q6, Q11, Q16, Q18, Q23, Q27, Q30, Q34, Q35, Q39** (safety work, bystander empathy, platform governance / OSRA S24). Q25 and Q31 lean on the S25 synthesis or S24 and are low priority. The remaining 28 questions (Tokunaga, prevalence, Runions, SIDE / Kramer, Kowalski & Limber, Billington) are the ones to practise.
+> **SCOPE UPDATE (4 Nov 2026):** the instructor posted a revised practice quiz (`quizzes/HS2911_Week12_PracticeQuiz_40Q_revised.docx`). Its text is identical to the original, but **14 questions are struck through: Q6, Q11, Q16, Q17, Q18, Q23, Q27, Q30, Q34, Q35, Q36, Q37, Q39, Q40**. They are tagged `[SKIP]` below. Ten of them are §4 Protective measures (S18–S24); Q36 and Q40 rest on the S25 synthesis, which the updated deck also puts out of scope ("nothing in syllabus for quiz from this slide on", written on S18); Q17 (bully-victims fall through support/discipline gaps) and Q37 (treat *Adolescence* as a dramatisation) were struck too, even though the underlying S13 and S4 points remain in the in-scope slides, so know the ideas but do not expect those exact questions. Q25 and Q31 were **not** struck but lean on S24/S25, so they are low priority. The 24 un-struck, fully in-scope questions (Tokunaga, prevalence, Runions, SIDE / Kramer, Kowalski & Limber, Billington) are the ones to practise.
 
 ### Q1 — Tokunaga's three defining features  ·  Answer: E
 **Q:** Which three features distinguish cyberbullying from other online aggression (Tokunaga, 2010)?
@@ -100,7 +100,7 @@ Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchp
 **Why not the others:** B) empathy not removed online · C) cognitive empathy is the wrong construct · D) age not significant · E) absolute claim "any context"
 **Trap:** absolute claim
 
-### Q17 — Student who bullies and is bullied  ·  Answer: D
+### Q17 — [SKIP: struck in revised quiz; the S13 bully-victim paradox itself is still in scope] Student who bullies and is bullied  ·  Answer: D
 **Q:** School has support for targets and discipline for bullies; one student is both. What happens?
 **Why D:** Falls through the gap; standard frameworks miss bully-victims. `[S13]`
 **Why not the others:** A) higher empathy invented · B) discipline does not treat harm · C) outcomes are worse, not same · E) report worse outcomes, not better
@@ -148,7 +148,7 @@ Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchp
 **Why not the others:** B) temporal lag does not remove anonymity · C) cue paucity reduces cues · D) contradicts SIDE · E) permanence does not reduce group identity
 **Trap:** wrong construct / contradicts SIDE
 
-### Q25 — [PARTLY §4: low priority] Bully-victims and capacity to use measures  ·  Answer: B
+### Q25 — [NOT struck, but leans on S25 synthesis: low priority] Bully-victims and capacity to use measures  ·  Answer: B
 **Q:** How do bully-victims' worse outcomes fit with measures favouring those with capacity?
 **Why B:** They fall through every net because measures favour users with capacity. `[S13, S25]`
 **Why not the others:** A) moderation not designed for them · C) not the target group · D) outcomes differ · E) experience does not help
@@ -184,7 +184,7 @@ Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchp
 **Why not the others:** A) cognitive empathy helps offline only · B) silence is participation · D) ignores norms · E) age/gender not significant
 **Trap:** right study, wrong finding
 
-### Q31 — [PARTLY §4: low priority] Platform change to reduce precursors  ·  Answer: A
+### Q31 — [NOT struck, but leans on S24: low priority] Platform change to reduce precursors  ·  Answer: A
 **Q:** Using Kramer and Runions, which platform change fits?
 **Why A:** Audit ranking for negative amplification and shorten response times. `[S11, S24]`
 **Why not the others:** B) removing report button · C) unlimited anonymity lowers cost · D) more notifications · E) engagement ranking amplifies
@@ -214,13 +214,13 @@ Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchp
 **Why not the others:** A) self-set times · B) shifts burden to users · C) wait for platform · D) burdens victims
 **Trap:** burden shifted to victims
 
-### Q36 — Recurring thread across levels  ·  Answer: D
+### Q36 — [SKIP: struck in revised quiz; S25 synthesis not on quiz] Recurring thread across levels  ·  Answer: D
 **Q:** Which statement captures the recurring thread across measures?
 **Why D:** Each level works mainly for those with capacity, so inequalities are reproduced. `[S25]`
 **Why not the others:** A) community does not replace others · B) levels swapped · C) it does reproduce inequality · E) not equal
 **Trap:** swapped groups / absolute claim
 
-### Q37 — Using Adolescence in class  ·  Answer: C
+### Q37 — [SKIP: struck in revised quiz; S4 "dramatisation" point itself is still in scope] Using Adolescence in class  ·  Answer: C
 **Q:** Which approach fits for teaching with the series?
 **Why C:** Treat as dramatisation; test its claims against research on platform design. `[S4, S17]`
 **Why not the others:** A) leaves out the victim · B) not a documentary · D) invented research claim · E) blame ranking not on slides
@@ -238,7 +238,7 @@ Source: /tmp/claude-1000/-home-kim/e46497fd-75f0-45f1-adc2-d5d44d74d4d0/scratchp
 **Why not the others:** A) perpetration · C) victimisation and response times · D) usage · E) knowledge of law
 **Trap:** adjacent but different construct
 
-### Q40 — Prediction for a new reporting tool  ·  Answer: D
+### Q40 — [SKIP: struck in revised quiz; S25 synthesis not on quiz] Prediction for a new reporting tool  ·  Answer: D
 **Q:** Which prediction fits the recurring thread about protective measures?
 **Why D:** Users who already know how to report and trust the process benefit most. `[S25]`
 **Why not the others:** A) not-bullied users not the point · B) tool depends on capacity · C) bully-victims fall through nets · E) most at risk benefit least
