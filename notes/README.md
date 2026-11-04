@@ -13,7 +13,7 @@ tutorial handout or discussed in class is examinable.
 | 9 | [Social media & addiction](week-09-social-media-addiction.md) | `lectures/Week_09_Social_Media_and_addiction_HS2911_2026.pptx` | 40 Q |
 | 10 | [Young persons' mental health](week-10-young-persons-mental-health.md) | `lectures/Week_10_Social_Media_and_Mental_Health_in_Young_Persons_Oct_2026.pptx` | 40 Q |
 | 11 | [Visibility, identity, countervisuality](week-11-visibility-identity-countervisuality.md) | `lectures/Week_11_Part1_labor_of_being_seen.pptx`, `lectures/Week_11_Part2_R3_Insyirah_1_April.pptx` | 40 Q |
-| 12 | [Cyberbullying & adolescence](week-12-cyberbullying-adolescence.md) | `lectures/Week_12_Cyberbullying_and_Adolescence.pptx` | 40 Q, revised 4 Nov 2026 (updated deck: S18 onward, incl. S25 synthesis, out of scope; 14 practice Qs struck through → marked SKIP) |
+| 12 | [Cyberbullying & adolescence](week-12-cyberbullying-adolescence.md) | `lectures/Week_12_Cyberbullying_and_Adolescence.pptx` | 26 of 40 Q (revised 4 Nov 2026: S18 onward out of scope; the 14 struck-through practice Qs are dropped from the walkthrough) |
 | T3 | [Tutorial 3 — evaluating chatbots](tutorial-03-evaluating-chatbots.md) | handout not in export; reconstructed from Week 7 quiz Q41–50 + `readings/tutorial-03/` | — |
 
 Each note has the same sections: summary · key concepts · frameworks · key studies (table) ·
