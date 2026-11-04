@@ -1,10 +1,13 @@
 # Week 12 — Cyberbullying and Adolescence
 
+> **SCOPE UPDATE (instructor announcement, 4 Nov 2026):** Section 4, *Protective measures* (S18–S24: Gillett safety work, Machackova & Pfetsch bystanders, Gillespie / OSRA platform governance, and the Emily and Riley prompts) **will not be on the quiz** because it was not covered in class. The slides stay in the deck "to educate"; this note was written from the pre-update deck. Lines below that rest on S18–S24 are tagged `⟵ §4, not on quiz`. OSRA as it appears in the opening (S3) is still in scope. The S25 synthesis ("every level works only for those with capacity") summarises §4, so treat it as low priority.
+
+
 Scope: HS2911 Week 12 deck (27 slides, 90 min: Problem 20 / Antecedents 25 / Consequences 25 / Protective 20). Lecturer not stated in the extracted text (not confirmed on slides). The practice quiz (40 Q) covers Tokunaga, Runions + Howard, SIDE, Kramer et al., Kowalski & Limber, Billington et al., Gillett, Machackova & Pfetsch, Gillespie/OSRA, and the synthesis slide. Slide numbers below follow the "===== SLIDE n =====" markers (same as the quiz's citations); the printed footers on the slides are offset by 1-10 (e.g. marker S6 is footed "Slide 5") so ignore the footers.
 
 ## 1. One-paragraph summary
 
-Cyberbullying is defined (Tokunaga, 2010) by intentionality, repetition and power imbalance, and it is a "no safe place" problem because the medium follows victims anywhere, any hour [S6]. It is common (about 40% of adults globally, about 50% of adolescents in SG/CN/MY/KR) yet under-reported in Singapore, where official figures are "low and stable" [S7]. Antecedents combine individual motives (Runions/Howard: rage, revenge, reward, recreation) with ICT affordances (anonymity, cue paucity, permanence, perpetual audience, temporal lag) and platform design (Kramer et al. emotional contagion; SIDE group-norm conformity) [S9-S11]. Consequences include depression, anxiety, suicidal ideation, physical and academic harm; bully-victims fare worst and are missed by standard frameworks [S13]. Billington et al. (2026) use recognition theory on Netflix's Adolescence to show a real-but-not-inevitable pathway from victimisation to misrecognition to algorithmic extremism to harmful recognition to escalation [S17]. Protective measures operate at three levels: individual safety work (Gillett), community bystander response (Machackova & Pfetsch), and platform governance (Gillespie; Singapore OSRA) [S21, S23, S24]. The synthesis: every level works mainly for those with the capacity to use it, so inequalities are reproduced and bully-victims fall through every net [S25].
+Cyberbullying is defined (Tokunaga, 2010) by intentionality, repetition and power imbalance, and it is a "no safe place" problem because the medium follows victims anywhere, any hour [S6]. It is common (about 40% of adults globally, about 50% of adolescents in SG/CN/MY/KR) yet under-reported in Singapore, where official figures are "low and stable" [S7]. Antecedents combine individual motives (Runions/Howard: rage, revenge, reward, recreation) with ICT affordances (anonymity, cue paucity, permanence, perpetual audience, temporal lag) and platform design (Kramer et al. emotional contagion; SIDE group-norm conformity) [S9-S11]. Consequences include depression, anxiety, suicidal ideation, physical and academic harm; bully-victims fare worst and are missed by standard frameworks [S13]. Billington et al. (2026) use recognition theory on Netflix's Adolescence to show a real-but-not-inevitable pathway from victimisation to misrecognition to algorithmic extremism to harmful recognition to escalation [S17]. Protective measures operate at three levels: individual safety work (Gillett), community bystander response (Machackova & Pfetsch), and platform governance (Gillespie; Singapore OSRA) [S21, S23, S24]. The synthesis: every level works mainly for those with the capacity to use it, so inequalities are reproduced and bully-victims fall through every net [S25]. ⟵ §4, not on quiz
 
 ## 2. Key concepts and definitions
 
@@ -31,13 +34,13 @@ Cyberbullying is defined (Tokunaga, 2010) by intentionality, repetition and powe
 - **Recognition theory (Honneth, 1995; via Billington et al.)** — asks whose suffering from cyberbullying is recognised as legitimate harm; "Recognition from harmful communities is still recognition." [S17, S27]
 - **Misrecognition** — adults/institutions fail to acknowledge or respond to the victim's harm; step 2 of the pathway [S17].
 - **Adolescence (Netflix, 2025)** — dramatisation (120M viewers): Jamie, 13, cyberbullying on Instagram -> humiliation -> incel radicalisation -> lethal violence; treated as a Rorschach test for moral panic [S4].
-- **Safety work (Gillett, 2023)** — extensive, ongoing, invisible, gendered labour users do to stay safe (studied on Tinder); constant not exceptional; burden falls on potential victims, not perpetrators [S21].
-- **Affective vs cognitive empathy (Machackova & Pfetsch)** — affective predicts victim support online AND offline; cognitive helps only offline [S23].
-- **Normative beliefs** — pro-aggression norms predict bully reinforcement, not victim support [S23].
-- **Bystander participation** — cheering, liking, sharing, silence all count as participation [S23].
-- **Platform content moderation (Gillespie, 2018)** — platforms make consequential editorial choices while denying they are editors; moderation is always value-laden [S24].
-- **OSRA / Online Safety Commission** — Singapore Act passed Nov 2025; OSC due June 2026; can force removal of cyberbullying content and restrict perpetrators' accounts [S3, S24].
-- **Contrast: individual vs community vs platform** — necessary but unjust / promising, scalable / powerful but captured [S24].
+- **Safety work (Gillett, 2023)** — extensive, ongoing, invisible, gendered labour users do to stay safe (studied on Tinder); constant not exceptional; burden falls on potential victims, not perpetrators [S21]. ⟵ §4, not on quiz
+- **Affective vs cognitive empathy (Machackova & Pfetsch)** — affective predicts victim support online AND offline; cognitive helps only offline [S23]. ⟵ §4, not on quiz
+- **Normative beliefs** — pro-aggression norms predict bully reinforcement, not victim support [S23]. ⟵ §4, not on quiz
+- **Bystander participation** — cheering, liking, sharing, silence all count as participation [S23]. ⟵ §4, not on quiz
+- **Platform content moderation (Gillespie, 2018)** — platforms make consequential editorial choices while denying they are editors; moderation is always value-laden [S24]. ⟵ §4, not on quiz
+- **OSRA / Online Safety Commission** — Singapore Act passed Nov 2025; OSC due June 2026; can force removal of cyberbullying content and restrict perpetrators' accounts [S3, S24]. ⟵ §4, not on quiz
+- **Contrast: individual vs community vs platform** — necessary but unjust / promising, scalable / powerful but captured [S24]. ⟵ §4, not on quiz
 
 ## 3. Frameworks, models and typologies
 
@@ -76,7 +79,7 @@ Slide moral: interventions that treat "cyberbullies" as one group will fail [S9]
 5. Escalation — ideology normalises violence as legitimate response.
 Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: the show's framing risks obscuring gendered harm to victim Katie.
 
-**Safety work forms (Gillett applied to cyberbullying)** [S21], 5 items:
+**Safety work forms (Gillett applied to cyberbullying)** [S21], 5 items: ⟵ §4, not on quiz
 1. Self-censorship — deleting posts, avoiding topics, vague profiles.
 2. Platform navigation — blocking, muting, reporting (even when unlikely to work).
 3. Network management — restricting audiences, curating followers, alt accounts.
@@ -84,7 +87,7 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 5. Anticipatory safety — pre-emptively avoiding spaces where harassment is expected.
 (Original Tinder safety work: profile curation, meeting protocols, information management, identity verification.)
 
-**Three-level protection model** [S24]:
+**Three-level protection model** [S24]: ⟵ §4, not on quiz
 - Individual — safety work (Gillett): continuous, gendered, invisible; effective for the individual, does not reduce the problem; shifts burden to victims. "Necessary but unjust."
 - Community — bystander intervention (Machackova): affective empathy + anti-aggression norms; peer norm-change programs (classes, teams) most promising; cognitive empathy alone insufficient online. "Promising, scalable."
 - Platform — content moderation (Gillespie) + OSRA: OSC can order takedowns; 5+ day response reveals structural gaps. "Powerful but captured."
@@ -100,10 +103,10 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - S12-S13 Consequences: Kowalski & Limber, bully-victim paradox.
 - S14-S16 Billington Ch. 4 quote prompts (no answers shown): S14 16-y/o NZ male "silence the red pill"; S15 Jacob (belonging, "say what you want without persecution"); S16 Tui (same spaces, different pathway; queerness).
 - S17 recognition theory + 5-step pathway.
-- S18-S22 Protective: S19 repeated reporting that does not work; S20 Emily "smile and nod" (coping vs survival strategy); S21 Gillett; S22 Riley (surprised by online meanness; "Should they have been?").
-- S23 Machackova & Pfetsch; S24 three-level governance; S25 synthesis; S26-S27 references.
+- S18-S22 Protective: S19 repeated reporting that does not work; S20 Emily "smile and nod" (coping vs survival strategy); S21 Gillett; S22 Riley (surprised by online meanness; "Should they have been?"). ⟵ §4, not on quiz
+- S23 Machackova & Pfetsch; S24 three-level governance; S25 synthesis; S26-S27 references. ⟵ §4, not on quiz
 - Reflection prompts [S2-S3]: changed online behaviour due to harassment; witnessed and stayed silent; reported and platform helped (or not); dealt with it alone. Closing question [S25]: which of individual / bystander / platform levels was available to you, and why or why not?
-- Discussion prompts S14-S16, S19-S20, S22 have no answer text on slides; treat as interpretive, not testable (not confirmed on slides).
+- Discussion prompts S14-S16, S19-S20, S22 have no answer text on slides; treat as interpretive, not testable (not confirmed on slides). ⟵ §4, not on quiz
 
 ## 4. Key studies and evidence
 
@@ -116,11 +119,11 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 | Kowalski & Limber (2013), J Adolescent Health 53(1 Suppl) | Correlates of cyberbullying vs traditional bullying (sample not given on slides) | Depression, anxiety, loneliness, suicidal ideation, physical and academic harm; bully-victims worst | Consequences; bully-victim paradox | S13 |
 | Lee, Ang & Cheung (2024) | Singapore prevalence chapter (cited slide-only) | 7.3% / 1.8% / 4.8% breakdown (which group is which not given on slides); 4.8% = bully-victims | Singapore bully-victim figure | S7, S27 |
 | Billington et al. (2026), Continuum | Roundtable of five scholars on Adolescence; recognition theory (Honneth 1995) | Pathway victimisation -> misrecognition -> algorithm -> harmful recognition -> escalation; real but not inevitable; risks obscuring harm to Katie | Consequences; gendered harm and recognition | S4, S14-S17 |
-| Billington (2026) Ch. 4 interview quotes | Adolescent interviews (NZ, South Africa; names Jacob 16, Tui 17, Emily 17, Riley 17, unnamed 16-17 y/o NZ males) | Discussion prompts only: silencing "red pill" users; belonging in manosphere spaces; queer identity changing pathway; reporting repeatedly with no effect; "smile and nod" | Prompts for pathway, coping and reporting futility (no answers on slides; not tested in quiz) | S14-S16, S19-S20, S22 |
-| Gillett (2023), Feminist Media Studies 23(1) | Women's safety work on Tinder | Safety work is constant, gendered, invisible; burden on potential victims | Individual-level protection | S21 |
-| Machackova & Pfetsch (2016), Scand J Psychology 57 | Path model, N=321 German adolescents; offline vs cyber bystanders | Affective empathy -> victim support in both; cognitive only offline; pro-aggression norms -> bully reinforcement; age/gender n.s. once cognition/affect controlled | Community-level protection | S23 |
-| Gillespie (2018), Custodians of the Internet | Book (passing mention) | Platforms make editorial choices while denying it; moderation is value-laden | Platform governance | S24 |
-| Singapore OSRA (Nov 2025) | Legislation | OSC can order takedowns and restrict accounts; 5+ day response gap | Platform accountability | S3, S24 |
+| Billington (2026) Ch. 4 interview quotes | Adolescent interviews (NZ, South Africa; names Jacob 16, Tui 17, Emily 17, Riley 17, unnamed 16-17 y/o NZ males) | Discussion prompts only: silencing "red pill" users; belonging in manosphere spaces; queer identity changing pathway; reporting repeatedly with no effect; "smile and nod" | Prompts for pathway, coping and reporting futility (no answers on slides; not tested in quiz) | S14-S16, S19-S20, S22 | ⟵ §4, not on quiz
+| Gillett (2023), Feminist Media Studies 23(1) | Women's safety work on Tinder | Safety work is constant, gendered, invisible; burden on potential victims | Individual-level protection | S21 | ⟵ §4, not on quiz
+| Machackova & Pfetsch (2016), Scand J Psychology 57 | Path model, N=321 German adolescents; offline vs cyber bystanders | Affective empathy -> victim support in both; cognitive only offline; pro-aggression norms -> bully reinforcement; age/gender n.s. once cognition/affect controlled | Community-level protection | S23 | ⟵ §4, not on quiz
+| Gillespie (2018), Custodians of the Internet | Book (passing mention) | Platforms make editorial choices while denying it; moderation is value-laden | Platform governance | S24 | ⟵ §4, not on quiz
+| Singapore OSRA (Nov 2025) | Legislation | OSC can order takedowns and restrict accounts; 5+ day response gap | Platform accountability | S3, S24 | ⟵ §4, not on quiz
 | Gao et al. (2024), Nature Human Behaviour | Umbrella review of meta-analyses (cited slide-only) | ~40% adult global rate; ~50% Asia | Prevalence | S7, S27 |
 | MDDI Perceptions of Digitalisation Survey (2025); Microsoft Digital Civility Index; MOE | Surveys / official figures | 84% harmful content; 33% harmful behaviour; 49% parents; 43% would not act; MOE "low and stable" | Scope and dark figure | S2-S3, S7, S27 |
 
@@ -136,9 +139,9 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 | 43% | Singaporeans with online harm who would not act as they do not believe it helps | MDDI / MOE context | S7 |
 | 4.8% | Singapore adolescents who are bully-victims | Lee, Ang & Cheung (2024) | S7, S13 |
 | 7.3% / 1.8% / 4.8% | Singapore prevalence breakdown (assignment of 7.3 and 1.8 not stated on slides) | Lee et al. (2024) | S27 |
-| 5+ days | Typical platform response time to valid reports | MDDI/OSRA/Lexology | S3, S24 |
+| 5+ days | Typical platform response time to valid reports | MDDI/OSRA/Lexology | S3, S24 | ⟵ §4, not on quiz
 | 689,000 | Facebook users in Kramer et al. | Kramer et al. (2014) | S11 |
-| 321 | German adolescents in Machackova & Pfetsch | Machackova & Pfetsch (2016) | S23 |
+| 321 | German adolescents in Machackova & Pfetsch | Machackova & Pfetsch (2016) | S23 | ⟵ §4, not on quiz
 | 120 million | Adolescence viewers; Netflix's third-most watched show | Netflix (2025) | S4 |
 | 13 | Age of Jamie in Adolescence | - | S4 |
 | Ages 13-17 | Highest-risk group | - | S7 |
@@ -155,11 +158,11 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - Platforms vs individuals: platforms are not neutral pipes; the platform renders ingroup aggression normative before individual decision [S11]. Note SIDE counters the simple "anonymity = disinhibition" view [S11].
 - Adolescence is a dramatisation: pathway real but not inevitable; never excuses harm; risk of making victim Katie's death incidental; moral panic [S4, S17].
 - Recognition from harmful communities is still recognition: misrecognition by adults opens the door [S17].
-- Safety work is "necessary but unjust": burden on victims, no reduction of the problem [S21, S24].
-- Empathy is necessary but not sufficient; norms matter; online context disrupts severity assessment ("didn't realise it was that bad" is structural, not a character flaw) [S23].
-- Platform moderation is value-laden and "captured"; even OSRA leaves response-time gaps [S24].
+- Safety work is "necessary but unjust": burden on victims, no reduction of the problem [S21, S24]. ⟵ §4, not on quiz
+- Empathy is necessary but not sufficient; norms matter; online context disrupts severity assessment ("didn't realise it was that bad" is structural, not a character flaw) [S23]. ⟵ §4, not on quiz
+- Platform moderation is value-laden and "captured"; even OSRA leaves response-time gaps [S24]. ⟵ §4, not on quiz
 - Equity critique: every level favours the vigilant/empathic/informed; cyberbullying reproduces inequality; bully-victims fall through every net; unresolved in the literature [S25].
-- Limitations of evidence to note: Kramer was done without consent (ethics) [S11]; Machackova is a German adolescent sample, N=321 [S23].
+- Limitations of evidence to note: Kramer was done without consent (ethics) [S11]; Machackova is a German adolescent sample, N=321 [S23]. ⟵ §4, not on quiz
 
 ## 7. Distractor traps
 
@@ -183,31 +186,31 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 **A Conceptual**
 - Which three features define cyberbullying per Tokunaga? [S6]
 - Which of the following best describes the SIDE model's claim about anonymity? [S11]
-- Define a bully-victim / safety work / affective empathy. [S13, S21, S23]
+- Define a bully-victim / safety work / affective empathy. [S13, S21, S23] ⟵ §4, not on quiz
 
 **B Analysis**
 - Which ICT property is matched with which effect (Runions)? [S10]
 - Which statistic pairing is correct (40% adults; 50% adolescents; 84% harmful content)? [S3, S7]
-- What did Machackova & Pfetsch find about cognitive empathy offline vs online? [S23]
+- What did Machackova & Pfetsch find about cognitive empathy offline vs online? [S23] ⟵ §4, not on quiz
 
 **C Application**
 - A teen insults a classmate at 2 a.m. after an argument and deletes it: which motive? (Rage) [S9]
 - A group chat "just a joke": which motive and intervention? (Recreation, empathy training) [S9]
-- Someone deletes posts, restricts audience: which forms of safety work? [S21]
+- Someone deletes posts, restricts audience: which forms of safety work? [S21] ⟵ §4, not on quiz
 
 **D Evaluation**
 - Evaluate: "Official figures are low so no new measures needed." [S7]
 - Evaluate: "Adolescence proves cyberbullying leads to radicalisation." [S4, S17]
-- Evaluate: "Teaching empathy will stop bystander reinforcement." [S23]
+- Evaluate: "Teaching empathy will stop bystander reinforcement." [S23] ⟵ §4, not on quiz
 
 **E Integration**
 - Combine Runions affordances with SIDE to explain aggression. [S10, S11]
 - Link the bully-victim paradox to the synthesis point that measures favour the capable. [S13, S25]
-- Link safety work and the 5+ day platform response time. [S21, S24, S3]
+- Link safety work and the 5+ day platform response time. [S21, S24, S3] ⟵ §4, not on quiz
 
 **F Creation**
 - Design a school plan matched to Runions' motives. [S9]
-- Design a bystander programme from Machackova & Pfetsch. [S23]
+- Design a bystander programme from Machackova & Pfetsch. [S23] ⟵ §4, not on quiz
 - Predict who benefits most from a new reporting tool. (Those who already know how to report and trust it.) [S25]
 
 ## 9. 60-second recap
@@ -220,9 +223,9 @@ Caveat: real but not inevitable; never excuses harm perpetrated. Key tension: th
 - Kramer (689,000 users): feeds shape emotion; platforms not neutral. SIDE: anonymity makes group identity salient [S11].
 - Bully-victims (4.8% SG) fare worst and are missed by support/discipline frameworks [S13].
 - Billington pathway: victimisation -> misrecognition -> algorithm -> harmful recognition -> escalation; real, not inevitable; show is a dramatisation [S4, S17].
-- Safety work (Gillett) = constant, gendered, invisible; five forms; necessary but unjust [S21, S24].
-- Machackova & Pfetsch (N=321): affective empathy helps online and offline, cognitive only offline, pro-aggression norms drive reinforcement; age/gender n.s. [S23].
-- OSRA: OSC can order takedowns and restrict accounts; platforms take 5+ days [S3, S24].
+- Safety work (Gillett) = constant, gendered, invisible; five forms; necessary but unjust [S21, S24]. ⟵ §4, not on quiz
+- Machackova & Pfetsch (N=321): affective empathy helps online and offline, cognitive only offline, pro-aggression norms drive reinforcement; age/gender n.s. [S23]. ⟵ §4, not on quiz
+- OSRA: OSC can order takedowns and restrict accounts; platforms take 5+ days [S3, S24]. ⟵ §4, not on quiz
 - Synthesis: every level favours those with capacity; inequalities reproduced; bully-victims fall through every net [S25].
 
 ### Source discrepancies to know
